@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #292626;
+    color: #fdf9f9;
+}
+
+.jumbotron {
+    background-image: url('/images/woodbackground.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    color: #fff; 
+}
+
+.container img {
+    margin-top: 15px;
+}
