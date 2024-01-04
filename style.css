@@ -13,4 +13,5 @@ body {
 
 .container img {
     margin-top: 15px;
+    box-shadow: 2px 2px 5px #fff;
 }
