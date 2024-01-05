@@ -1,18 +1,18 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #292626;
-    color: #fdf9f9;
+  font-family: Arial, sans-serif;
+  background-color: #292626;
+  color: #fdf9f9;
 }
 
 .jumbotron {
-    font-family: 'Radley', serif;
-    background-image: url('/images/woodbackground.jpg'); 
-    background-size: cover; 
-    background-position: center; 
-    color: #fff; 
+  font-family: "Radley", serif;
+  background-image: url("/images/woodbackground.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
 }
 
-.container img {
-    margin-top: 15px;
-    box-shadow: 2px 2px 5px #fff;
+.container .carousel {
+  margin-top: 15px;
+  box-shadow: 2px 2px 5px #fff;
 }
