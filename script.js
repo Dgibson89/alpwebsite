@@ -6,3 +6,8 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         });
     });
 });
+
+$('#imageCarousel').carousel({
+    interval: 2000 
+  });
+  
