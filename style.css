@@ -5,6 +5,7 @@ body {
 }
 
 .jumbotron {
+    font-family: 'Radley', serif;
     background-image: url('/images/woodbackground.jpg'); 
     background-size: cover; 
     background-position: center; 
