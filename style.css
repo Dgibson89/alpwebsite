@@ -2,6 +2,8 @@ body {
   font-family: Arial, sans-serif;
   background-color: #292626;
   color: #fdf9f9;
+  opacity: 0;
+  transition: opacity 1.5s ease;
 }
 
 .jumbotron {
@@ -36,18 +38,7 @@ ol li ul {
   margin-bottom: 1rem;
 }
 
-/* Page Fade Out/In */
-
-.fade-out {
-  opacity: 0;
-  transition: opacity 1s ease;
-}
-
-
-body {
-  opacity: 0;
-  transition: opacity 1s ease;
-}
+/* Page Fade In */
 
 body.fade-in {
   opacity: 1;
