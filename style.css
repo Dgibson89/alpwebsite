@@ -16,3 +16,14 @@ body {
   margin-top: 15px;
   box-shadow: 2px 2px 5px #fff;
 }
+
+/* Styling for the main ordered list */
+ol {
+  padding-left: 20px;
+}
+
+/* Styling for nested unordered lists */
+ol li ul {
+  list-style-type: disc; 
+  padding-left: 20px;
+}
