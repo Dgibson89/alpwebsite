@@ -35,3 +35,20 @@ ol li ul {
   height: auto;
   margin-bottom: 1rem;
 }
+
+/* Page Fade Out/In */
+
+.fade-out {
+  opacity: 0;
+  transition: opacity 1s ease;
+}
+
+
+body {
+  opacity: 0;
+  transition: opacity 1s ease;
+}
+
+body.fade-in {
+  opacity: 1;
+}
